@@ -1,0 +1,9 @@
+spacy
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+gensim
+fasttext-wheel
+streamlit
